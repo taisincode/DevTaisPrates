@@ -9,7 +9,7 @@ Sou criativa (ou tento ser 😄), adoro escrever, desenhar e aprender coisas nov
 
 | GitHub  | LinkedIn | Instagram |
 |:-------:|:--------:|:---------:|
-| [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)](https://github.com/DevTaisPrates) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/taís-prates/) | [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=flat&logo=instagram&logoColor=E4405F)](https://www.instagram.com/tais_prates13/) |
+| [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)](https://github.com/DevTaisPrates) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/taís-prates/) | [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=flat&logo=instagram&logoColor=E4405F)]([https://www.instagram.com/tais.incode/](https://www.instagram.com/tais.incode/)) |
 
 ## 🚀 O que estou aprendendo:
 
