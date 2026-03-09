@@ -27,10 +27,10 @@ Meu objetivo é crescer como desenvolvedora, criar projetos próprios, fortalece
 
 ## 🌆 Meu prédio no Git City
 
-Meu perfil do GitHub também virou um prédio em uma cidade 3D de desenvolvedores.
+Cada desenvolvedor vira um prédio em uma cidade 3D baseada na atividade do GitHub.
 
-Veja meu prédio aqui:
+Veja meu prédio na cidade:
 
-🔗 https://www.thegitcity.com/dev/taisincode
+🏙️ https://www.thegitcity.com/?user=taisincode
 
 Estou aberta a colaboração, aprendizado contínuo e novos desafios.
