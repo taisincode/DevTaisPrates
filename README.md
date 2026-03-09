@@ -25,4 +25,12 @@ Tenho interesse em unir tecnologia e criatividade, desenvolvendo soluções para
 ## 🎯 Objetivos
 Meu objetivo é crescer como desenvolvedora, criar projetos próprios, fortalecer minha base em backend e banco de dados e construir um portfólio sólido para oportunidades de estágio e aprendizado.
 
+## 🌆 Meu prédio no Git City
+
+Meu perfil do GitHub também virou um prédio em uma cidade 3D de desenvolvedores.
+
+Veja meu prédio aqui:
+
+🔗 https://www.thegitcity.com/dev/taisincode
+
 Estou aberta a colaboração, aprendizado contínuo e novos desafios.
