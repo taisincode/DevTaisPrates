@@ -1,36 +1,32 @@
-# Olá, eu sou Taís Prates 👋
+# Tais Prates
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Python, SQL e desenvolvimento web.  
-Crio projetos autorais para aplicar na prática o que estudo e evoluir minha lógica de programação.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento back-end.
 
-Tenho interesse em unir tecnologia e criatividade, desenvolvendo soluções para organização, escrita e produtividade.
+Atualmente estudando e desenvolvendo projetos com Python, APIs e estruturação de sistemas, com interesse em construção de agentes utilizando Agno e FastAPI.
 
-## 🚀 Projeto em destaque
-📌 **InspiraScript** — caderno digital para organizar ideias literárias (inspirações, personagens e ambientações), utilizando HTML, CSS, Python e MySQL.  
-➡️ Repositório: https://github.com/DevTaisPrates/InspiraScript
+## Tecnologias
 
-## 🛠 Tecnologias em aprendizado
-- HTML  
-- CSS  
-- JavaScript  
-- Python  
-- SQL / MySQL  
-- Git & GitHub  
+- Python
+- FastAPI
+- SQL / MySQL
+- HTML e CSS
+- Git e GitHub
 
-## 🌐 Conecte-se comigo
-| GitHub | LinkedIn | Instagram |
-|:------:|:--------:|:---------:|
-| [GitHub](https://github.com/DevTaisPrates) | [LinkedIn](https://www.linkedin.com/in/taís-prates/) | [Instagram](https://www.instagram.com/tais.incode/) |
+## Projetos
 
-## 🎯 Objetivos
-Meu objetivo é crescer como desenvolvedora, criar projetos próprios, fortalecer minha base em backend e banco de dados e construir um portfólio sólido para oportunidades de estágio e aprendizado.
+### InspiraScript
+Caderno digital para organização de ideias literárias, incluindo personagens, ambientações e inspirações.
 
-## 🌆 Meu prédio no Git City
+Tecnologias: HTML, CSS, Python, MySQL  
+Repositório: https://github.com/DevTaisPrates/InspiraScript
 
-Cada desenvolvedor vira um prédio em uma cidade 3D baseada na atividade do GitHub.
+*(Novos projetos em desenvolvimento)*
 
-Veja meu prédio na cidade:
+## Objetivo
 
-🏙️ https://www.thegitcity.com/?user=taisincode
+Busco oportunidade de estágio em desenvolvimento back-end para aplicar meus conhecimentos em projetos reais e evoluir tecnicamente.
 
-Estou aberta a colaboração, aprendizado contínuo e novos desafios.
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/taís-prates/
+- GitHub: https://github.com/DevTaisPrates
