@@ -18,15 +18,12 @@ Atualmente estudando e desenvolvendo projetos com Python, APIs e estruturação 
 Caderno digital para organização de ideias literárias, incluindo personagens, ambientações e inspirações.
 
 Tecnologias: HTML, CSS, Python, MySQL  
-Repositório: https://github.com/DevTaisPrates/InspiraScript
+Repositório: [https://github.com/DevTaisPrates/InspiraScript](https://github.com/taisincode/Projeto-InspiraScript)
 
 *(Novos projetos em desenvolvimento)*
 
 ## Objetivo
 
 Busco oportunidade de estágio em desenvolvimento back-end para aplicar meus conhecimentos em projetos reais e evoluir tecnicamente.
-
-## Contato
-
 - LinkedIn: https://www.linkedin.com/in/taís-prates/
 - GitHub: https://github.com/DevTaisPrates
