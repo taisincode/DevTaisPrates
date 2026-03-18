@@ -25,5 +25,7 @@ Repositório: [https://github.com/DevTaisPrates/InspiraScript](https://github.co
 ## Objetivo
 
 Busco oportunidade de estágio em desenvolvimento back-end para aplicar meus conhecimentos em projetos reais e evoluir tecnicamente.
+
+## Contato
 - LinkedIn: https://www.linkedin.com/in/taís-prates/
 - GitHub: https://github.com/DevTaisPrates
