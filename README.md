@@ -28,4 +28,3 @@ Busco oportunidade de estágio em desenvolvimento back-end para aplicar meus con
 
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/taís-prates/
-- GitHub: https://github.com/DevTaisPrates
